@@ -1,1 +1,15 @@
 # Week-9-Assignment
+
+Time spent: **9** hours spent in total
+
+> Objective: To set up Honeypots to catpure data from users
+
+
+* Which Honeypot(s) you deployed:
+
+* Any issues you encountered:
+My biggest issues were installing and getting the Honeypot set up.  The instructions were not very clear and took a while to get the system up and running.
+
+* A summary of the data collected: number of attacks, number of malware samples, etc:
+
+* Any unresolved questions raised by the data collected:
