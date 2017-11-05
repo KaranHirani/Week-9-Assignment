@@ -16,7 +16,7 @@ My biggest issues were installing and getting the Honeypot set up.  The instruct
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc:
 
-This data is included in the json file, which can be found at the following <a href = "">link</a>
+This data is included in the json file, which can be found at the following <a href = "https://github.com/KaranHirani/Week-9-Assignment/blob/master/session.json">link</a>.  I had about 868 attack hits.  Details for each attack can be found in json file.
 
 ## Any unresolved questions raised by the data collected:
 
